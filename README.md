@@ -1,7 +1,11 @@
 Make sure that you login into Ubuntu docker
 
 go to your working directory
+
     -clone the source code
+    
+    git clone https://github.com/freud96/HW2.git
+    
 To compile and run the program, a CMakeList file was given with the name of the project as well as name of output file + path.
 
 if build directory was already build, please do rm -r - build.
